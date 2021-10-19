@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="30">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif width="600">
 
 
 [![CaioBervian GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioBervian)](https://github.com/CaioBervian/github-readme-stats)
